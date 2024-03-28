@@ -31,7 +31,6 @@ public class GPS : MonoBehaviour
         else
         {
             StartLocationService();
-            Debug.Log("asd");
         }
     }
 
